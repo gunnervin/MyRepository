@@ -1,4 +1,4 @@
 # MyRepository
-This is my first GIT Repository.
-<br>
+This is my first GIT Repository
+<br> 
 author - Vineet Soliwal
